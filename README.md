@@ -6,3 +6,6 @@
 
 ### 詳細画面①
 ![詳細画面①](https://github.com/RikuMaeda/shopsearch/assets/115796549/af0e7ecb-461c-48d4-a229-990be6288182)
+
+### 詳細画面②
+![詳細画面②](https://github.com/RikuMaeda/shopsearch/assets/115796549/01e36436-53ea-4488-9ac0-fd568364fdcc)
