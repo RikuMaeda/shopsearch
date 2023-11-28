@@ -3,3 +3,6 @@
 
 ### 一覧画面
 ![一覧画面](https://github.com/RikuMaeda/shopsearch/assets/115796549/7dfbd6e4-c2a1-4f40-9107-cb323ad420ce)
+
+### 詳細画面①
+![詳細画面①](https://github.com/RikuMaeda/shopsearch/assets/115796549/af0e7ecb-461c-48d4-a229-990be6288182)
